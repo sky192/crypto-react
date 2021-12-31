@@ -1,1 +1,1 @@
-Digital currency finane price tracker
+crypto currency finane price tracker
