@@ -1,1 +1,1 @@
-Crypto Currency Financial price tracker.
+Crypto Currency Financial Price tracker.
